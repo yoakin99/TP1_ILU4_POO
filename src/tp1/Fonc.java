@@ -3,7 +3,7 @@ package tp1;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
-public class Fonc<A> implements T1, T2, T3<A>, Power<T>{
+public class Fonc<A> implements T1, T2, T3<A>{
 	
 	@Override
 	public int f1(int val) {
